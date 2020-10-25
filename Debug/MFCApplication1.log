@@ -1,0 +1,3 @@
+﻿  MFCApplication1Dlg.cpp
+z:\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(240): error C2143: syntax error: missing ';' before 'CEdit::Clear'
+z:\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(240): error C3867: 'CEdit::Clear': non-standard syntax; use '&' to create a pointer to member
